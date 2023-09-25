@@ -1,0 +1,27 @@
+]633;C]633;E;for f in inputs/input.10*;e907dfcc-8da1-4a89-8432-a031ed3c280dinputs/input.10*
+========================================
+Trying some methods from the MinHeap class ....
+You must check that the output is correct manually (or write code that does it automatically)
+========================================
+insert 700
+MinHeap:- 1
+700 
+insert 500
+MinHeap:- 2
+500 700 
+insert 100
+MinHeap:- 3
+100 700 500 
+insert 800
+MinHeap:- 4
+100 700 500 800 
+insert 200
+MinHeap:- 5
+100 200 500 800 700 
+insert 400
+MinHeap:- 6
+100 200 400 800 700 500 
+insert 900
+MinHeap:- 7
+100 200 400 800 700 500 900 
+size: 7
